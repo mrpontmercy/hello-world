@@ -1,5 +1,2 @@
 # hello-world
-
-Hello everyone!!
-
-Привет всем
+new repository
